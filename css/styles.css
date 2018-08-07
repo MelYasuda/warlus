@@ -1,0 +1,16 @@
+.walrus-showing {
+  display: none;
+}
+
+.clickable:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.clickable {
+  color: #794454;
+}
+
+.dog-hiding {
+  display: none;
+}
